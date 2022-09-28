@@ -46,7 +46,7 @@ let numOfChildrenOfPaginationUl = ul_of_pagination.children.length-1;
 
 
 // The URL for supplying into the async function is given below (JSON place holder comments))
-var suppliedUrl = "http://jsonplaceholder.typicode.com/comments";
+var suppliedUrl = "https://jsonplaceholder.typicode.com/comments";
 
 var random_digit = 0; // here it is used to change the background color of cells (by updating)
 
